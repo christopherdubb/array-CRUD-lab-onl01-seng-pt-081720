@@ -5,7 +5,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  four_element_arr = ["chicken", "Fries", "Mashed Potatoes", "Sprite"]
+  four_element_arr_arr = ["chicken", "Fries", "Mashed Potatoes", "Sprite"]
   putsmpp four_element_arr
 end
 
